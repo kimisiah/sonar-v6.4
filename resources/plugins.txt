@@ -14,3 +14,4 @@ http://sonarsource.bintray.com/Distribution/sonar-xml-plugin/sonar-xml-plugin-1.
 https://github.com/SonarQubeCommunity/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-issues-report-plugin/1.3/sonar-issues-report-plugin-1.3.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-tab-metrics-plugin/1.4.1/sonar-tab-metrics-plugin-1.4.1.jar
+https://github.com/stevespringett/dependency-check-sonar-plugin/releases/download/sonar-dependency-check-1.0.3/sonar-dependency-check-plugin-1.0.3.jar
